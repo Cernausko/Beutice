@@ -1,0 +1,114 @@
+*{
+    margin:5px 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: poppins;
+}
+.container{
+margin: 0 auto;
+text-align: center;
+}
+
+#pink{
+width: 63px;
+height: 63px;
+flex-shrink: 0; 
+fill: #FF64AE;
+}
+
+h1{
+width: 161px;
+height: 34px;
+flex-shrink: 0;     
+color: #091156;
+
+font-size: 24px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+letter-spacing: 2.4px;
+display: inline-block;
+padding-right: 15%;
+}
+
+h2{
+color: #FF64AE;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 125%;
+text-align: left;
+}
+
+h3{
+width: 615px;
+height: 104px;
+flex-shrink: 0;
+color: #091156;
+font-size: 36px;
+font-style: normal;
+font-weight: 600;
+line-height: 125%;
+text-align: left;
+}
+
+p{
+width: 407px;
+height: 72px;
+flex-shrink: 0;
+color: #8B8B8B;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+letter-spacing: 1.6px;
+text-align: left;
+}
+
+#Home{
+    color: #091156;
+}
+
+a{
+text-decoration: none;
+color: #8B8B8B;
+
+font-size: 16px;
+font-style: normal;
+}
+
+text{
+    padding-left: 200px;
+}
+
+#Contact{
+text-decoration: none;
+color: #ffffff;
+padding: 10px 15px;
+font-size: 16px;
+font-style: normal;
+border-radius: 50px;
+background: #FF64AE; 
+}
+
+ul{
+list-style: none;
+display: inline-block
+}
+  
+li{
+display: inline-block;
+color: #8B8B8B;
+font-weight: 500;
+line-height: normal;
+letter-spacing: 1.6px; 
+margin: 24px;
+padding-right: 5px;
+text-align: right;
+}
+i{
+color: #8B8B8B;
+}
